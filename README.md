@@ -70,4 +70,4 @@ DELETE /usuarios/{id}
 
 ## Autor
 
-Krysthian Felipe Denex dos Santos
+Krysthian Felipe
